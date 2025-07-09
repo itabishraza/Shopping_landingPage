@@ -6,7 +6,7 @@ A simple shopping landing page built using **HTML** and **CSS**. This is the fro
 
 ## ✨ Features
 
-- Fully responsive layout
+
 - Modern design with CSS styling
 - Product sections and promotional banners
 - Navigation header and footer
