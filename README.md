@@ -15,7 +15,8 @@ A simple shopping landing page built using **HTML** and **CSS**. This is the fro
 
 ## 🚀 Live Demo
 
-👉 [Live Link](buybeebytabish.netlify.app)
+👉 [Live Link](https://buybeebytabish.netlify.app)
+
 
 Click the link above to view the deployed site!
 
